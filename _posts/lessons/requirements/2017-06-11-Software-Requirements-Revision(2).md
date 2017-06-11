@@ -79,5 +79,3 @@ E.g. Attitudes of older people towards technology
      W: Won't --Will not happen for certain release, maybe for the future.    
 * Cumulative voting
 * Priority = Urgency * Value
-
-
