@@ -72,10 +72,12 @@ E.g. Attitudes of older people towards technology
 
 #### Priorities in agile
 * Order in product/sprint backlog
-* MoSCoW
-    - M: Must --Essential for the success of the project
-    - S: Should --High priority, often critical, but if absolutely necessary can be do somehow else.
-    - C: Could --Desired but not essential, if time allows
-    - W: Won't --Will not happen for certain release, maybe for the future.
+* MoSCoW     
+     M: Must --Essential for the success of the project    
+     S: Should --High priority, often critical, but if absolutely necessary can be do somehow else.    
+     C: Could --Desired but not essential, if time allows    
+     W: Won't --Will not happen for certain release, maybe for the future.    
 * Cumulative voting
 * Priority = Urgency * Value
+
+
