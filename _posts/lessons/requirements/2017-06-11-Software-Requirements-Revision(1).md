@@ -2,7 +2,7 @@
 layout: post
 category : requirements
 tagline: "Supporting tagline"
-tags : [requirements,SWEN90009,Interview,Goal Model]
+tags : [requirements,SWEN90009]
 ---
 {% include JB/setup %}
 
