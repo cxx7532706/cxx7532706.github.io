@@ -48,5 +48,13 @@ tags : [requirements,SWEN90009]
     <li>Anything else important that we have missed?</li>
 </ul>
 
+#### System-as-is vs System-to-be
+<ul>
+	<li>System-as-is is an existing or a current state of system or profcess, is a combination of people, process, data and technology.</li>
+	<li>System-to-be is the one which is developed on the basis of the analysis done on the current system which needs to be changed.</li>
+</ul>
+
+
+
 
 
