@@ -1,8 +1,8 @@
 ---
 layout: post
-category : others
+category : diaries
 tagline: "Supporting tagline"
-tags : [jekyll]
+tags : [blog,feelings]
 ---
 {% include JB/setup %}
 
