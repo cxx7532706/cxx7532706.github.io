@@ -6,8 +6,6 @@ tags : [jekyll,css,github]
 ---
 {% include JB/setup %}
 
-##Change Jekyll theme code background color
-
 Locate to `./assets/themes/themeName/css/style.css`    
 change `background-color` in following codes 
 ~~~~~~~
