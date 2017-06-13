@@ -5,7 +5,8 @@ tagline: Supporting tagline
 ---
 {% include JB/setup %}
 
-<img src="./assets/photos/codebrew2016.jpeg" alt="codebrew2016" style="width: 630px;"/>
+
+<img src="/assets/photos/codebrew2016.jpeg" alt="codebrew2016" style="width: 630px;"/>
 
 Hi there,
 
