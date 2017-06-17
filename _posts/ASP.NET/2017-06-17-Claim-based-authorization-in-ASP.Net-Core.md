@@ -172,6 +172,17 @@ public async Task<IActionResult> Logout(){
 
 Simply use `await HttpContext.Authentication.SignOutAsync("Cookies");` to destroy the authentication.
 
+### Authorize Controller
+
+To set permissions to Controller or some methods inside Controller. Simply add `[Authorize]` above the Controller/method.
+
+~~~
+[Authorize(Policy = "AdminPolicy")]
+public IActionResult VacationBalance()
+{
+    return View();
+}
+~~~
 
 
 
