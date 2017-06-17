@@ -158,7 +158,7 @@ The codes above will first get the user_id and password from form. Then retrieve
 
 * `IsPersistent` is a flag indicates authentication will be destroied once the browser is closed. Could also add `ExpiresUtc` to indicate experies time. For example `ExpiresUtc = DateTime.UtcNow.AddMinutes(20)` this indicates authentication will be destoried after 20 mins.
 
-You could store whatever you want in cookie by adding new Claim, and this information could be retrieved anytime later once authentication is created. The way to retrieve is by `HttpContext.User.Identity`, which is really powerful when you are dealing with default layout `_layout` change based on authorization.
+You could store whatever you want in cookie by adding new Claim, and this information could be retrieved anytime later once authentication is created. The way to retrieve is by `HttpContext.User.Claims`, which is really powerful when you are dealing with default layout `_layout` change based on authorization.
 
 ### Destroy authentication after user logged out.
 
