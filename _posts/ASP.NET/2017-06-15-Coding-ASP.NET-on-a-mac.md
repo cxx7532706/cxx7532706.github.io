@@ -14,7 +14,7 @@ BTW, there are a couple of extensions on VS Code are really good and helpful, I 
 
 After set-up environment, simply locate to your work path, and then run `dotnet new mvc`, this will scaffold a mvc framework website like this.
 
-<img src="/assets/photos/asp-net demo.png" alt="asp-net-demo" style="width: 630px;"/>
+<img src="/assets/photos/asp-net demo.png" alt="asp-net-demo" style="width: 630px; margin: 0 auto; display:block;"/>
 
 Next step is to create your own database and scaffold Controller and Views. Here I use Sqlite as the database, but you can use whatever EntityFramework supported.
 
@@ -87,9 +87,11 @@ Just follow the instruction written on extension's description, and all the magi
 
 Goto `localhost:5000/user` to check the magic, basic CRUD functions are finished!
 
-<img src="/assets/photos/CRUD-demo-index.png" alt="index" style="width: 630px;"/>
-<img src="/assets/photos/CRUD-demo-Create.png" alt="create" style="width: 630px;"/>
-<img src="/assets/photos/CRUD-demo-details.png" alt="details" style="width: 630px;"/>
+<img src="/assets/photos/CRUD-demo-index.png" alt="index" style="width: 630px; margin: 0 auto; display:block;"/>
+<br>
+<img src="/assets/photos/CRUD-demo-Create.png" alt="create" style="width: 630px; margin: 0 auto; display:block;"/>
+<br>
+<img src="/assets/photos/CRUD-demo-details.png" alt="details" style="width: 630px; margin: 0 auto; display:block;"/>
 
 
 
