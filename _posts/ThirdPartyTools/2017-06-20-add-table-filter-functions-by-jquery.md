@@ -10,10 +10,10 @@ This post will talk about how to do table filter function by using Jquery and Bo
 First I'll show you how the finished functions look like.
 
 ### Original Table:
-<img src="/assets/photos/Table-Filter-1.png" alt="Bootstrap-table" style="width: 800px; margin: 0 auto; display:block;"/> 
+<img src="/assets/photos/Table-Filter-1.png" alt="Bootstrap-table" style="width: 630px; margin: 0 auto; display:block;"/> 
 
 ### Filtered Table:
-<img src="/assets/photos/Table-Filter-2.png" alt="Bootstrap-table" style="width: 800px; margin: 0 auto; display:block;"/>
+<img src="/assets/photos/Table-Filter-2.png" alt="Bootstrap-table" style="width: 630px; margin: 0 auto; display:block;"/>
 
 I just added a DateTime filter because of my project need, but you could add whatever functions you want by the same way.
 
