@@ -15,13 +15,13 @@ After all those things done, simply run you application. It will be run on `loca
 
 For now, if you open your browser, type your virtual machine address `xx.xx.xx.xx:port`, you will be able to use your app.
 
-<img src="/assets/photos/Deploy-1.png" alt="Before" style="width: 800px; margin: 0 auto; display:block;"/>
+<img src="/assets/photos/Deploy-1.png" alt="Before" style="width: 630px; margin: 0 auto; display:block;"/>
 
 Now, the application is run like this. However, this way is a bit unsafe, if the application crash, everything might crashing. 
 
 So instead, we use a middleware between www and dotnet, which is Nginx.
 
-<img src="/assets/photos/Deploy-2.png" alt="Before" style="width: 800px; margin: 0 auto; display:block;"/>
+<img src="/assets/photos/Deploy-2.png" alt="Before" style="width: 630px; margin: 0 auto; display:block;"/>
 
 ### Install Nginx
 
