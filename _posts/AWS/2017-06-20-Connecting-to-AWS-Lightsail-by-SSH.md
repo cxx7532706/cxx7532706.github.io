@@ -22,7 +22,7 @@ AWS will create a default SSH key pairs for you to use to connect.
 
 Go to `Account` page and `SSH keys`. Download the `.pem` file to your computer.
 
-<img src="/assets/photos/Lightsail-2.png" alt="lightsail-2" style="width: 630px; margin: 0 auto; display:block;"/>
+<img src="/assets/photos/lightsail-2.png" alt="lightsail-2" style="width: 630px; margin: 0 auto; display:block;"/>
 
 Copy your SSH key pairs to `~/.ssh/`.
 
@@ -30,5 +30,5 @@ Copy your SSH key pairs to `~/.ssh/`.
 
 use `ssh -i ~/.ssh/myKey.pem user@xx.xx.xx.xx` you will be connected with your cloud server!
 
-<img src="/assets/photos/Lightsail-3.png" alt="lightsail-3" style="width: 630px; margin: 0 auto; display:block;"/>
+<img src="/assets/photos/lightsail-3.png" alt="lightsail-3" style="width: 630px; margin: 0 auto; display:block;"/>
 
