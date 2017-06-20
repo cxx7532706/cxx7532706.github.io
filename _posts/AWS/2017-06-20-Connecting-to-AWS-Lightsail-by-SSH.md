@@ -32,5 +32,3 @@ use `ssh -i ~/.ssh/myKey.pem user@xx.xx.xx.xx` you will be connected with your c
 
 <img src="/assets/photos/Lightsail-3.png" alt="lightsail-3" style="width: 630px; margin: 0 auto; display:block;"/>
 
-
-
