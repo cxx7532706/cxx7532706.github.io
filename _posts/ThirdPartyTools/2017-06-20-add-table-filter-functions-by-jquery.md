@@ -4,7 +4,8 @@ category : ThirdPartyTools
 tagline: "Supporting tagline"
 tags : [Front-End, ThirdPartyTools, Bootstrap-table, Jquery]
 ---
-This post will talk about how to do table filter function by using Jquery and Bootstrap-table. For those who doesn't know about Bootstrap-table, please look at my previous article first. ["Bootstrap-Table"]({% post_url 2017-06-19-Powerful-Grid(Table)-Tools:-Bootstrap_Table %})
+This post will talk about how to do table filter function by using Jquery and Bootstrap-table. For those who doesn't know about Bootstrap-table, please look at my previous article first.
+["Bootstrap-Table"]({% post_url ThirdPartyTools/2017-06-19-Powerful-Grid(Table)-Tools:-Bootstrap_Table %})
 
 First I'll show you how the finished functions look like.
 
