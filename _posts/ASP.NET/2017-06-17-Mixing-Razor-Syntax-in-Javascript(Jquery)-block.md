@@ -4,6 +4,7 @@ category : ASP.NET
 tagline: "Supporting tagline"
 tags : [ASP.NET,Razor,Javascript]
 ---
+{% include JB/setup %}
 
 It is really easy, but it is important, so I want to write it down here.
 

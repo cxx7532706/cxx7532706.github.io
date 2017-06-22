@@ -4,6 +4,7 @@ category : ASP.NET
 tagline: "Supporting tagline"
 tags : [ASP.NET,authentication,authorization,claim-based]
 ---
+{% include JB/setup %}
 
 This tutorial will teach you how to use your own database user table to do authentication in cookies, then use claim-based authorization to control security permission.
 

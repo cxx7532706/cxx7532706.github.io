@@ -4,6 +4,7 @@ category : ASP.NET
 tagline: "Supporting tagline"
 tags : [ASP.NET,Postgres]
 ---
+{% include JB/setup %}
 
 Today I tried to transfer my database from sqLite3 to Postgres for my current project, so that I could deploy it on cloud server in the future.
 

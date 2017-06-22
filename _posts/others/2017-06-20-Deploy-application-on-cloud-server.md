@@ -4,6 +4,7 @@ category : AWS
 tagline: "Supporting tagline"
 tags : [AWS, ASP.NET, Ubuntu]
 ---
+{% include JB/setup %}
 
 Deploying your app on a virtual machine on cloud is not a hard thing anymore. It is really cheap to buy a could-based server for small application. It only cost me 5 dollars a month to have a Ubuntu instance with 512 MB RAM, 20GB SSD and 512 GB data transfer on Amazon Web Service(AWS).
 

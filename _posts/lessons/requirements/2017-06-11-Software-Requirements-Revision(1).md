@@ -1,6 +1,6 @@
 ---
 layout: post
-category : requirements
+category : Requirements
 tagline: "Supporting tagline"
 tags : [requirements,SWEN90009]
 ---

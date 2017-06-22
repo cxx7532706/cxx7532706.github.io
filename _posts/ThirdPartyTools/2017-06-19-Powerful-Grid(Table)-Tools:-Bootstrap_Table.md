@@ -4,6 +4,8 @@ category : ThirdPartyTools
 tagline: "Supporting tagline"
 tags : [Front-End, ThirdPartyTools, Bootstrap-table]
 ---
+{% include JB/setup %}
+
 Today I am going to introduce a powerful table tool for showing the data, it's open source, it's free, and there are a lot of extensions in Github. The tool is called "Bootstrap-table".
 
 Don't get confused because of the name, it isn't the table that in Twitter Bootstrap, it's a new tool based on Bootstrap.

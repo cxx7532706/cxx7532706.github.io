@@ -1,6 +1,6 @@
 ---
 layout: post
-category : diaries
+category : Diaries
 tagline: "Supporting tagline"
 tags : [movies]
 ---

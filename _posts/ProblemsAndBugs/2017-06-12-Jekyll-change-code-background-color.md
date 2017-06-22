@@ -1,6 +1,6 @@
 ---
 layout: post
-category : problems and bugs
+category : Problems and bugs
 tagline: "Supporting tagline"
 tags : [jekyll,css,github]
 ---
