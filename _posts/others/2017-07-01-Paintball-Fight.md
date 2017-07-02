@@ -24,4 +24,4 @@ Suit up! Wait for staff to guide you into the field, grab your gun! Load it, the
 
 <img src="/assets/photos/PaintBall-BattleField.jpeg" alt="BattleField" style="width: 630px; margin: 0 auto; display:block;"/>
 
-Tips: DO NOT use all your bullets at the beginning, because there are MANY MANY MANY battles during the day, you don't want to use all of them at the very beginning. Hold your gun, aim the enemies, shot less but precise!
+Tips: DO NOT use all your bullets at the beginning, because there are MANY MANY MANY battles during the day, you don't want to use all of them at the very beginning. Hold your gun, aim at the enemies, shot less but precise!
