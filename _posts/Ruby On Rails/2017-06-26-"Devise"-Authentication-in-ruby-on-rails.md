@@ -4,6 +4,7 @@ category : Ruby on Rails
 tagline: "Supporting tagline"
 tags : [Ruby on Rails]
 ---
+{% include JB/setup %}
 
 Devise is a very useful and common gem for User Authentication and Authorization in Ruby on Rails.
 
